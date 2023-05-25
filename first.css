@@ -1,0 +1,183 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.nav-icon{
+    height: 50px;
+    width: 50px;
+}
+.banner-section{
+    background-image: url("https://c0.wallpaperflare.com/preview/263/921/102/business-communication-computer-concept.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.banner-heading {
+    color:white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+    margin-top: 100px;
+  }
+.banner-caption {
+    color:white;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+  } 
+.btn{
+    border-radius: 10px;
+    color:white;
+    width: 150px;
+    font-size: larger;
+    margin-top: 5px;
+    border-color: white;
+}  
+.e-commerce-cards-background{
+    background-color: white;
+}
+.e-commerce-title{
+    color: green;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+}
+.e-commerce-card{
+    border-radius: 10px;
+    background-color: khaki;
+    text-align: center;
+    width: 280px;
+    height:340px;
+    margin:10px;
+    margin-bottom: 20px;
+}
+.e-commerce-card-img{
+    height: 240px;
+    width: 100px;
+}
+.e-commerce-card-item-title{
+    color:white;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+.e-commerce-card-item-link{
+  color: white;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+}
+.e-commerce-large-card-background{
+    background-color: rgb(255, 250, 206)
+}
+.e-commerce-large-card-button{
+    width: 140px;
+    height: 40px;
+    background-color:transparent;
+    border-radius: 8px;
+    border-color: khaki;
+    border-width: 5px;
+    color:rgb(244, 231, 120);
+    font-weight: 700;
+
+} 
+.e-commerce-large-card-title-heading{
+    color:grey;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+.e-commerce-large-card-information{
+    color:black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.e-commerce-large-banner-card-img{
+    background-size: cover;
+    width:1200px;
+    padding-top:15px;
+}
+.e-commerce-large-banner-card-offer-img{
+    height: 380px;
+    width: 340px;
+}
+.e-commerce-large-banner-card-offer-img-info{
+    font-weight: bolder;
+    font-size: 25px;
+    color:khaki;
+    text-align: center;
+    padding: 25px;
+    margin-right: 25px;
+}
+.e-commerce-large-banner-card-button{
+    width: 140px;
+    height: 40px;
+    background-color:transparent;
+    border-radius: 8px;
+    border-color: khaki;
+    border-width: 5px;
+    color:rgb(244, 231, 120);
+    font-weight: 700; 
+    text-align: center;
+}
+
+.delivery-and-payment-section {
+    background-color: white;
+  }
+  .delivery-and-payment-section-img {
+    width: 270px;
+  }
+  .delivery-and-payment-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+  }
+
+  .follow-us-section {
+    background-color: white;
+  }
+  .follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+  }
+  .icon {
+    color: #d0b200;
+    font-size: 35px;
+  }
+  .footer-section {
+    background-color: #0d2436;
+  }
+  .footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+  }  
